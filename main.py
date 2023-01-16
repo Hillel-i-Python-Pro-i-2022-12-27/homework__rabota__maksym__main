@@ -1,6 +1,9 @@
-def print_hi(name):
-    print(f'Hi, {name}')
+from application import greetings
 
 
-if __name__ == '__main__':
-    print_hi('User1')
+def main() -> None:
+    print(greetings())
+
+
+if __name__ == "__main__":
+    main()
