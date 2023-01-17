@@ -132,3 +132,6 @@ dmypy.json
 
 output_dir/**
 !output_dir/.gitkeep
+.Lib
+.Include
+.Scripts
