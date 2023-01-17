@@ -1,4 +1,4 @@
-#for install and update requiremets before run projet: #make init-dev
+#for install and update requirements before run projet: #make init-dev
 
 #for run this project without docker: #make homework-i-run
 
