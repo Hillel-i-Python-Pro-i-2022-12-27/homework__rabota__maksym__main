@@ -8,4 +8,4 @@
 
 #for purge with docker: #make d-homework-i-purge
 
-:triumph:
+:triumph: :triumph:
